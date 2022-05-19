@@ -1,0 +1,26 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "6th lab for 3DGP course",
+  "scripts": {
+    "babelbuild": "babel src -d dist",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Jegorka",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^8.2.5",
+    "dat.gui": "^0.7.9",
+    "three": "^0.140.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "prettier": "^2.6.2"
+  }
+}
