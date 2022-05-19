@@ -1,5 +1,5 @@
 /.vscode/
 node_modules
 dist
-*.config.js
+prettier.config.js
 *.md
